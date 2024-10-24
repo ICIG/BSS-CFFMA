@@ -19,7 +19,10 @@ Short description of what your project does.
 - numpy==1.22.4
 - numba==0.57.0
 
-To install the required packages, run .pip install -r requirements.txt
+To install the required packages, run the following command:
+
+```bash
+pip install -r requirements.txt
 ### Installation Steps
 
 Step-by-step guide on how to install and configure the project.
