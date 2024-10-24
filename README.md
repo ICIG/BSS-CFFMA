@@ -18,6 +18,8 @@ Short description of what your project does.
 - fairseq==0.12.2
 - numpy==1.22.4
 - numba==0.57.0
+- pesq==0.0.3
+- pstoi
 
 To install the required packages, run the following command:
 
@@ -25,13 +27,9 @@ To install the required packages, run the following command:
 pip install -r requirements.txt
 ```
 
-### Installation Steps
-
-Step-by-step guide on how to install and configure the project.
-
 ## Usage
 
-### Examples
+### Dateset and Data processing
 
 Provide examples on how to use the project.
 
