@@ -18,7 +18,7 @@ Short description of what your project does.
 - fairseq==0.12.2
 - numpy==1.22.4
 - numba==0.57.0
-- 
+
 To install the required packages, run .pip install -r requirements.txt
 ### Installation Steps
 
