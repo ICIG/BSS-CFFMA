@@ -1,7 +1,8 @@
 # BSS-CFFMA: Cross-Domain Feature Fusion and Multi-Attention Speech Enhancement Network based on Self-Supervised Embedding
 
 Speech self-supervised learning (SSL) represents has achieved state-of-the-art (SOTA) performance in multiple downstream tasks. However, its application in speech enhancement (SE) tasks remains immature, offering opportunities for improvement. In this study, we introduce a novel cross-domainnfeature fusion and multi-attention speech enhancement network, termed BSS-CFFMA, which leverages self-supervised embeddings. BSS-CFFMA comprises a multi-scale cross-domainfeature fusion (MSCFF) block and a residual hybrid multi-attention (RHMA) block. The MSCFF block effectively integrates cross-domain features, facilitating the extraction of richacoustic information. The RHMA block, serving as the primary enhancement module, utilizes three distinct attention modules to capture diverse attention representations and estimate high quality speech signals.
-We evaluate the performance of the BSS-CFFMA model through comparative and ablation studies on the VoiceBankDEMAND and WHAMR! dataset, achieving SOTA results.
+
+We evaluate the performance of the BSS-CFFMA model through comparative and ablation studies on the VoiceBank-DEMAND and WHAMR! dataset, achieving SOTA results.
 
 ## Table of Contents
 
