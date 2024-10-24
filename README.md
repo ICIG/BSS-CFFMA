@@ -23,6 +23,7 @@ To install the required packages, run the following command:
 
 ```bash
 pip install -r requirements.txt
+
 ### Installation Steps
 
 Step-by-step guide on how to install and configure the project.
