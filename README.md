@@ -12,10 +12,9 @@ Short description of what your project does.
 
 ## Installation
 
-### Dependencies
-
-#### torch==1.11.0
-#### torchaudio==0.11.0
+- Dependencies
+- torch==1.11.0
+- torchaudio==0.11.0
 
 fairseq==0.12.2
 
