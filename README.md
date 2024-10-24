@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 Provide examples on how to use the project.
 
-### Configuration
+### Pre-trained model
 
 Explain how to configure the project if necessary.
 
