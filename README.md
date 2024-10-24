@@ -1,3 +1,65 @@
+# BSS-CFFMA: Cross-Domain Feature Fusion and Multi-Attention Speech Enhancement Network based on Self-Supervised Embedding
+
+Short description of what your project does.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Authors](#authors)
+- [License](#license)
+
+## Installation
+
+### Dependencies
+
+List of dependencies that need to be installed.
+
+### Installation Steps
+
+Step-by-step guide on how to install and configure the project.
+
+## Usage
+
+### Examples
+
+Provide examples on how to use the project.
+
+### Configuration
+
+Explain how to configure the project if necessary.
+
+### Running
+
+Instructions on how to run the project and any commands needed.
+
+## Contributing
+
+### Contributing Guidelines
+
+Guidelines for contributing to the project.
+
+### License
+
+This project is licensed under the [License Name]. See the [LICENSE](LICENSE) file for details.
+
+## Authors
+
+- [Author Name](link to author's GitHub or website)
+
+## Additional Information
+
+### Feedback
+
+Provide feedback channels or link to a FAQ section if available.
+
+### Future Plans
+
+Outline any future updates or features planned for the project.
+
+
+
 Installation
 
 # noisy speech
